@@ -11,9 +11,19 @@ A simple ecommerce website created using React Class Components, Context API, Gr
 - Quick Shop Functionality (Add an item to cart with default attributes)
 - Currency Switcher
 
+## Available Datalayer Events:
+
+- impressions
+- productClick
+- details
+- addToCart and removeFromCart
+- checkout (step 1)
+
 ## Important
 
-Please use the following command to install all relevant packages:
+Before you install and start the frontend you need to download and follow the instructions for starting React GraphQL endpoint by Scandiweb at [https://github.com/scandiweb/junior-react-endpoint](https://github.com/scandiweb/junior-react-endpoint)
+
+then please use the following command to install all relevant packages:
 
 ### `npm install --force`
 
@@ -52,4 +62,3 @@ You may also see any lint errors in the console.
 ### Currency Switcher
 
 <img src="https://i.postimg.cc/ZqYgTwrW/currency.png" width="100%" height="auto" alt="PDP" border="0">
-# Ziad-Muhammad-Data-Engineer
